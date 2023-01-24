@@ -1,0 +1,6 @@
+{
+    "audio_path": "../audios/GB_Bhim_snip.wav",
+    "structure_file": "../annotations/GB_Bhim_snip/structure.csv",
+    "start_time": 0,
+    "end_time": 70.525
+}
